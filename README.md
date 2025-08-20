@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Full-Stack Node.js Developer
 
-> 💁🏻‍♀️  [Visit my website][portfolio]
+> 👉🏻 [Visit my website][portfolio]
 
  🙋🏻‍♀️ Hi, I'm Jenna! But most people call me Hope / Hope.ts 
 
