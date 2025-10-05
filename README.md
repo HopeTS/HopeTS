@@ -8,8 +8,8 @@
 
 ## 🛠 ️ Currently
 
-- 🍐 Lead dev for [PearDrive][peardrive]
-- 👭🏻 Creator of [SisterJS][sister]
+- 🍐 Maintainer of [PearDrive][peardrive]
+- 👭🏻 Developing [SisterJS][sister]
 
 ## 💖 Support Me
 
