@@ -4,7 +4,7 @@
 
  🙋🏻‍♀️ Hi, I'm Jenna! But most people call me Hope / Hope.ts 
 
- 💁🏻‍♀️ I'm a full-stack developer with 5 years professional experience in the field and a BSc in Computer Science. I'm dedicated to giving developers and vibecoders easy-to-use tools to create fast and powerful p2p apps.
+ 💁🏻‍♀️ I'm a Node.js developer dedicated to giving developers and vibecoders easy-to-use tools to create fast and powerful p2p apps.
 
 ## 🛠 ️ Currently
 
