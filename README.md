@@ -8,8 +8,10 @@
 
 ## 🛠 ️ Currently
 
-- 🍐 Maintainer of [PearDrive][peardrive]
-- 👭🏻 Developing [SisterJS][sister]
+- 🍐 Tech Lead for [PearDrive][peardrive]
+- 🍐 [PearDrive Core][peardrivecore] dev/maintainer
+- 👩🏻‍💻 [PearDrive CLI][peardrivecli] dev/maintainer
+- 👭🏻 Developing SisterJS
 
 ## 💖 Support Me
 
@@ -18,5 +20,6 @@
 
 [portfolio]: https://hopets.dev
 [peardrive]: https://github.com/PearDrive
-[sister]: https://github.com/HopeTS/SisterJS
+[peardrivecore]: https://github.com/PearDrive/PearDriveCore
+[peardrivecli]: https://github.com/PearDrive/PearDriveCLI 
 [patreon]: https://patreon.com/hopets
