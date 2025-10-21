@@ -14,6 +14,7 @@
 ## 💖 Support Me
 
 - 💁🏻‍♀️ [Patreon][patreon]
+- ₿: bc1qn4v2ssze0tvzn7r7hpyxcg4z07ewg7d8kx6nnc
 
 [portfolio]: https://hopets.dev
 [peardrive]: https://github.com/PearDrive
