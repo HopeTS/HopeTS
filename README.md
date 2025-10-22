@@ -15,11 +15,13 @@
 
 ## 💖 Support Me
 
-- 💁🏻‍♀️ [Patreon][patreon]
 - ₿: bc1qn4v2ssze0tvzn7r7hpyxcg4z07ewg7d8kx6nnc
+- 💁🏻‍♀️ [Patreon][patreon]
+- ☕️ [ko-fi][kofi]
 
 [portfolio]: https://hopets.dev
 [peardrive]: https://github.com/PearDrive
 [peardrivecore]: https://github.com/PearDrive/PearDriveCore
 [peardrivecli]: https://github.com/PearDrive/PearDriveCLI 
 [patreon]: https://patreon.com/hopets
+[kofi]: https://ko-fi.com/hopets
