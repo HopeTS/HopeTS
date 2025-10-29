@@ -16,6 +16,7 @@
 ## 💖 Support Me
 
 - ₿: bc1qn4v2ssze0tvzn7r7hpyxcg4z07ewg7d8kx6nnc
+- ⚡️ validcomet541@walletofsatoshi.com
 - 💁🏻‍♀️ [Patreon][patreon]
 - ☕️ [ko-fi][kofi]
 
