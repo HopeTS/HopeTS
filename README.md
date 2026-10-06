@@ -2,27 +2,13 @@
 
 > 👉🏻 [Visit my website][portfolio]
 
- 🙋🏻‍♀️ Hi, I'm Jenna! But most people call me Hope / Hope.ts 
+ 🙋🏻‍♀️ Hi, I'm Jenna! Known by GitHub as Hope / Hope.ts
 
  💁🏻‍♀️ I'm a Node.js developer dedicated to giving developers and vibecoders easy-to-use tools to create fast and powerful p2p apps.
-
-## 🛠 ️ Currently
-
-- 🍐 Tech Lead for [PearDrive][peardrive]
-- 🍐 [PearDrive Core][peardrivecore] dev/maintainer
-- 👩🏻‍💻 [PearDrive CLI][peardrivecli] dev/maintainer
-- 👭🏻 Developing SisterJS
 
 ## 💖 Support Me
 
 - ₿: bc1qn4v2ssze0tvzn7r7hpyxcg4z07ewg7d8kx6nnc
 - ⚡️ validcomet541@walletofsatoshi.com
-- 💁🏻‍♀️ [Patreon][patreon]
-- ☕️ [ko-fi][kofi]
 
 [portfolio]: https://hopets.dev
-[peardrive]: https://github.com/PearDrive
-[peardrivecore]: https://github.com/PearDrive/PearDriveCore
-[peardrivecli]: https://github.com/PearDrive/PearDriveCLI 
-[patreon]: https://patreon.com/hopets
-[kofi]: https://ko-fi.com/hopets
